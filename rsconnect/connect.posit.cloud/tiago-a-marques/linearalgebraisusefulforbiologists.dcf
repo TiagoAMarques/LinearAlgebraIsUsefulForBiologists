@@ -1,0 +1,12 @@
+name: linearalgebraisusefulforbiologists
+title: LinearAlgebraIsUsefulForBiologists
+username: tiago-a-marques
+account: tiago-a-marques
+server: connect.posit.cloud
+hostUrl: https://api.connect.posit.cloud/v1
+appId: 01a16081-bec0-c40e-396d-8c8dad17f8ee
+bundleId:
+url: https://connect.posit.cloud/tiago-a-marques/content/01a16081-bec0-c40e-396d-8c8dad17f8ee
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
