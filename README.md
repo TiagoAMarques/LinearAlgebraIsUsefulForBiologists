@@ -5,6 +5,8 @@ Students can build a stage-structured projection matrix, follow a population
 through time, interpret its dominant eigenvalue and stable stage structure,
 explore elasticity, and compare baseline and oil-impact scenarios.
 
+The live version of the app is deployed at <https://tiago-a-marques-linearalgebraisusefulforbiologists.share.connect.posit.cloud/>
+
 ## Learning goals
 
 After using the app, students should be able to:
